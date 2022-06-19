@@ -1,0 +1,203 @@
+{
+    "Response": {
+        "profile": {
+            "data": {
+                "userInfo": {
+                    "crossSaveOverride": 1,
+                    "applicableMembershipTypes": [
+                        2,
+                        3,
+                        1
+                    ],
+                    "isPublic": true,
+                    "membershipType": 1,
+                    "membershipId": "4611686018445052690",
+                    "displayName": "iBroadband",
+                    "bungieGlobalDisplayName": "Broadband",
+                    "bungieGlobalDisplayNameCode": 9214
+                },
+                "dateLastPlayed": "2022-06-19T01:45:54Z",
+                "versionsOwned": 511,
+                "characterIds": [
+                    "2305843009263744752",
+                    "2305843009263744753",
+                    "2305843009277404157"
+                ],
+                "seasonHashes": [
+                    1743682818,
+                    1743682819,
+                    2809059425,
+                    2809059424,
+                    2809059427,
+                    2809059426,
+                    2809059429,
+                    2809059428,
+                    2809059431,
+                    2809059430,
+                    2809059433,
+                    2809059432
+                ],
+                "currentSeasonHash": 2809059430,
+                "currentSeasonRewardPowerCap": 1570
+            },
+            "privacy": 1
+        },
+        "characters": {
+            "data": {
+                "2305843009263744752": {
+                    "membershipId": "4611686018445052690",
+                    "membershipType": 1,
+                    "characterId": "2305843009263744752",
+                    "dateLastPlayed": "2022-06-19T01:45:54Z",
+                    "minutesPlayedThisSession": "56",
+                    "minutesPlayedTotal": "266663",
+                    "light": 1578,
+                    "stats": {
+                        "1935470627": 1578,
+                        "2996146975": 51,
+                        "392767087": 50,
+                        "1943323491": 100,
+                        "1735777505": 100,
+                        "144602215": 60,
+                        "4244567218": 52
+                    },
+                    "raceHash": 898834093,
+                    "genderHash": 3111576190,
+                    "classHash": 2271682572,
+                    "raceType": 2,
+                    "classType": 2,
+                    "genderType": 0,
+                    "emblemPath": "/common/destiny2_content/icons/63d9d69e7c9a4ae3cbecad641ad7fa19.jpg",
+                    "emblemBackgroundPath": "/common/destiny2_content/icons/0713b2a53470dc731ac3ed96298d866f.jpg",
+                    "emblemHash": 2071635914,
+                    "emblemColor": {
+                        "red": 110,
+                        "green": 68,
+                        "blue": 16,
+                        "alpha": 255
+                    },
+                    "levelProgression": {
+                        "progressionHash": 1716568313,
+                        "dailyProgress": 0,
+                        "dailyLimit": 0,
+                        "weeklyProgress": 0,
+                        "weeklyLimit": 0,
+                        "currentProgress": 0,
+                        "level": 50,
+                        "levelCap": 50,
+                        "stepIndex": 50,
+                        "progressToNextLevel": 0,
+                        "nextLevelAt": 0
+                    },
+                    "baseCharacterLevel": 50,
+                    "percentToNextLevel": 0.0,
+                    "titleRecordHash": 3298130972
+                },
+                "2305843009263744753": {
+                    "membershipId": "4611686018445052690",
+                    "membershipType": 1,
+                    "characterId": "2305843009263744753",
+                    "dateLastPlayed": "2022-06-15T06:06:09Z",
+                    "minutesPlayedThisSession": "0",
+                    "minutesPlayedTotal": "60540",
+                    "light": 1573,
+                    "stats": {
+                        "1935470627": 1573,
+                        "2996146975": 85,
+                        "392767087": 49,
+                        "1943323491": 92,
+                        "1735777505": 68,
+                        "144602215": 80,
+                        "4244567218": 39
+                    },
+                    "raceHash": 2803282938,
+                    "genderHash": 2204441813,
+                    "classHash": 671679327,
+                    "raceType": 1,
+                    "classType": 1,
+                    "genderType": 1,
+                    "emblemPath": "/common/destiny2_content/icons/47cf50005652c7845dba801054460104.jpg",
+                    "emblemBackgroundPath": "/common/destiny2_content/icons/1de9221ddf4ad672f431e5d684b26b25.jpg",
+                    "emblemHash": 1736897077,
+                    "emblemColor": {
+                        "red": 4,
+                        "green": 6,
+                        "blue": 1,
+                        "alpha": 255
+                    },
+                    "levelProgression": {
+                        "progressionHash": 1716568313,
+                        "dailyProgress": 0,
+                        "dailyLimit": 0,
+                        "weeklyProgress": 0,
+                        "weeklyLimit": 0,
+                        "currentProgress": 0,
+                        "level": 50,
+                        "levelCap": 50,
+                        "stepIndex": 50,
+                        "progressToNextLevel": 0,
+                        "nextLevelAt": 0
+                    },
+                    "baseCharacterLevel": 50,
+                    "percentToNextLevel": 0.0,
+                    "titleRecordHash": 1971228746
+                },
+                "2305843009277404157": {
+                    "membershipId": "4611686018445052690",
+                    "membershipType": 1,
+                    "characterId": "2305843009277404157",
+                    "dateLastPlayed": "2022-06-17T22:18:53Z",
+                    "minutesPlayedThisSession": "74",
+                    "minutesPlayedTotal": "62560",
+                    "light": 1574,
+                    "stats": {
+                        "1935470627": 1574,
+                        "2996146975": 40,
+                        "392767087": 60,
+                        "1943323491": 102,
+                        "1735777505": 51,
+                        "144602215": 102,
+                        "4244567218": 50
+                    },
+                    "raceHash": 3887404748,
+                    "genderHash": 3111576190,
+                    "classHash": 3655393761,
+                    "raceType": 0,
+                    "classType": 0,
+                    "genderType": 0,
+                    "emblemPath": "/common/destiny2_content/icons/47cf50005652c7845dba801054460104.jpg",
+                    "emblemBackgroundPath": "/common/destiny2_content/icons/1de9221ddf4ad672f431e5d684b26b25.jpg",
+                    "emblemHash": 1736897077,
+                    "emblemColor": {
+                        "red": 4,
+                        "green": 6,
+                        "blue": 1,
+                        "alpha": 255
+                    },
+                    "levelProgression": {
+                        "progressionHash": 1716568313,
+                        "dailyProgress": 0,
+                        "dailyLimit": 0,
+                        "weeklyProgress": 0,
+                        "weeklyLimit": 0,
+                        "currentProgress": 0,
+                        "level": 50,
+                        "levelCap": 50,
+                        "stepIndex": 50,
+                        "progressToNextLevel": 0,
+                        "nextLevelAt": 0
+                    },
+                    "baseCharacterLevel": 50,
+                    "percentToNextLevel": 0.0,
+                    "titleRecordHash": 3298130972
+                }
+            },
+            "privacy": 1
+        }
+    },
+    "ErrorCode": 1,
+    "ThrottleSeconds": 0,
+    "ErrorStatus": "Success",
+    "Message": "Ok",
+    "MessageData": {}
+}

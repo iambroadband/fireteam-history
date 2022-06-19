@@ -1,0 +1,302 @@
+{
+	"info": {
+		"_postman_id": "ec605473-bead-4c49-b1b9-81e6e8560114",
+		"name": "Bungie API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "SearchGlobalName (prefix)",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "X-API-Key",
+						"value": "{{bungie_api_key}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"displayNamePrefix\": \"{{bungie_username_prefix}}\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://www.bungie.net/Platform/User/Search/GlobalName/0",
+					"protocol": "https",
+					"host": [
+						"www",
+						"bungie",
+						"net"
+					],
+					"path": [
+						"Platform",
+						"User",
+						"Search",
+						"GlobalName",
+						"0"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetBungieNetUserById",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-API-Key",
+						"value": "{{bungie_api_key}}",
+						"type": "default"
+					}
+				],
+				"url": {
+					"raw": "https://www.bungie.net/Platform/User/GetBungieNetUserById/{{bungie_membership_id}}",
+					"protocol": "https",
+					"host": [
+						"www",
+						"bungie",
+						"net"
+					],
+					"path": [
+						"Platform",
+						"User",
+						"GetBungieNetUserById",
+						"{{bungie_membership_id}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetMembershipDataById",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-API-Key",
+						"value": "{{bungie_api_key}}",
+						"type": "default"
+					}
+				],
+				"url": {
+					"raw": "https://www.bungie.net/Platform/User/GetMembershipsById/{{bungie_membership_id}}/{{platform_id}}/",
+					"protocol": "https",
+					"host": [
+						"www",
+						"bungie",
+						"net"
+					],
+					"path": [
+						"Platform",
+						"User",
+						"GetMembershipsById",
+						"{{bungie_membership_id}}",
+						"{{platform_id}}",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "SearchDestinyPlayerByBungieName",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "X-API-Key",
+						"value": "{{bungie_api_key}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"displayName\": \"{{bungie_display_name}}\",\r\n    \"displayNameCode\": {{bungie_display_name_code}}\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://www.bungie.net/Platform/Destiny2/SearchDestinyPlayerByBungieName/-1/",
+					"protocol": "https",
+					"host": [
+						"www",
+						"bungie",
+						"net"
+					],
+					"path": [
+						"Platform",
+						"Destiny2",
+						"SearchDestinyPlayerByBungieName",
+						"-1",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Destiny2.GetProfile",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-API-Key",
+						"value": "{{bungie_api_key}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [],
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://www.bungie.net/Platform/Destiny2/{{platform_id}}/Profile/{{d2_membership_id}}/?components=100, 200",
+					"protocol": "https",
+					"host": [
+						"www",
+						"bungie",
+						"net"
+					],
+					"path": [
+						"Platform",
+						"Destiny2",
+						"{{platform_id}}",
+						"Profile",
+						"{{d2_membership_id}}",
+						""
+					],
+					"query": [
+						{
+							"key": "components",
+							"value": "100, 200",
+							"description": "100 = profile, 200 = characters"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Destiny2.GetActivityHistory",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-API-Key",
+						"value": "{{bungie_api_key}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [],
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://www.bungie.net/Platform/Destiny2/{{platform_id}}/Account/{{d2_membership_id}}/Character/{{d2_character_1_id}}/Stats/Activities/?count=10&mode=84&page=0",
+					"protocol": "https",
+					"host": [
+						"www",
+						"bungie",
+						"net"
+					],
+					"path": [
+						"Platform",
+						"Destiny2",
+						"{{platform_id}}",
+						"Account",
+						"{{d2_membership_id}}",
+						"Character",
+						"{{d2_character_1_id}}",
+						"Stats",
+						"Activities",
+						""
+					],
+					"query": [
+						{
+							"key": "count",
+							"value": "10"
+						},
+						{
+							"key": "mode",
+							"value": "84",
+							"description": "84 = Trials of Osiris"
+						},
+						{
+							"key": "page",
+							"value": "0"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Destiny2.GetPostGameCarnageReport",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-API-Key",
+						"value": "{{bungie_api_key}}",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [],
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://www.bungie.net/Platform/Destiny2/Stats/PostGameCarnageReport/{{latest_activity_id}}/",
+					"protocol": "https",
+					"host": [
+						"www",
+						"bungie",
+						"net"
+					],
+					"path": [
+						"Platform",
+						"Destiny2",
+						"Stats",
+						"PostGameCarnageReport",
+						"{{latest_activity_id}}",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

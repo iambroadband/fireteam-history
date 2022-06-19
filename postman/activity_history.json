@@ -1,0 +1,1581 @@
+{
+    "Response": {
+        "activities": [
+            {
+                "period": "2022-06-19T01:34:45Z",
+                "activityDetails": {
+                    "referenceId": 2879074472,
+                    "directorActivityHash": 4150051058,
+                    "instanceId": "10995629222",
+                    "mode": 84,
+                    "modes": [
+                        5,
+                        84
+                    ],
+                    "isPrivate": false,
+                    "membershipType": 3
+                },
+                "values": {
+                    "assists": {
+                        "statId": "assists",
+                        "basic": {
+                            "value": 6.0,
+                            "displayValue": "6"
+                        }
+                    },
+                    "score": {
+                        "statId": "score",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0"
+                        }
+                    },
+                    "kills": {
+                        "statId": "kills",
+                        "basic": {
+                            "value": 10.0,
+                            "displayValue": "10"
+                        }
+                    },
+                    "averageScorePerKill": {
+                        "statId": "averageScorePerKill",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0.00"
+                        }
+                    },
+                    "deaths": {
+                        "statId": "deaths",
+                        "basic": {
+                            "value": 3.0,
+                            "displayValue": "3"
+                        }
+                    },
+                    "averageScorePerLife": {
+                        "statId": "averageScorePerLife",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0.00"
+                        }
+                    },
+                    "completed": {
+                        "statId": "completed",
+                        "basic": {
+                            "value": 1.0,
+                            "displayValue": "Yes"
+                        }
+                    },
+                    "opponentsDefeated": {
+                        "statId": "opponentsDefeated",
+                        "basic": {
+                            "value": 16.0,
+                            "displayValue": "16"
+                        }
+                    },
+                    "efficiency": {
+                        "statId": "efficiency",
+                        "basic": {
+                            "value": 5.333333333333333,
+                            "displayValue": "5.33"
+                        }
+                    },
+                    "killsDeathsRatio": {
+                        "statId": "killsDeathsRatio",
+                        "basic": {
+                            "value": 3.3333333333333335,
+                            "displayValue": "3.33"
+                        }
+                    },
+                    "killsDeathsAssists": {
+                        "statId": "killsDeathsAssists",
+                        "basic": {
+                            "value": 4.333333333333333,
+                            "displayValue": "4.33"
+                        }
+                    },
+                    "activityDurationSeconds": {
+                        "statId": "activityDurationSeconds",
+                        "basic": {
+                            "value": 523.0,
+                            "displayValue": "8m 43s"
+                        }
+                    },
+                    "standing": {
+                        "statId": "standing",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "Victory"
+                        }
+                    },
+                    "team": {
+                        "statId": "team",
+                        "basic": {
+                            "value": 19.0,
+                            "displayValue": "19"
+                        }
+                    },
+                    "completionReason": {
+                        "statId": "completionReason",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "Objective Completed"
+                        }
+                    },
+                    "fireteamId": {
+                        "statId": "fireteamId",
+                        "basic": {
+                            "value": -4.2427168295228068E+18,
+                            "displayValue": "-2147483648"
+                        }
+                    },
+                    "startSeconds": {
+                        "statId": "startSeconds",
+                        "basic": {
+                            "value": 1.0,
+                            "displayValue": "0m 1s"
+                        }
+                    },
+                    "timePlayedSeconds": {
+                        "statId": "timePlayedSeconds",
+                        "basic": {
+                            "value": 522.0,
+                            "displayValue": "8m 42s"
+                        }
+                    },
+                    "playerCount": {
+                        "statId": "playerCount",
+                        "basic": {
+                            "value": 6.0,
+                            "displayValue": "6"
+                        }
+                    },
+                    "teamScore": {
+                        "statId": "teamScore",
+                        "basic": {
+                            "value": 5.0,
+                            "displayValue": "5"
+                        }
+                    }
+                }
+            },
+            {
+                "period": "2022-06-19T01:29:22Z",
+                "activityDetails": {
+                    "referenceId": 2879074472,
+                    "directorActivityHash": 4150051058,
+                    "instanceId": "10995579188",
+                    "mode": 84,
+                    "modes": [
+                        5,
+                        84
+                    ],
+                    "isPrivate": false,
+                    "membershipType": 3
+                },
+                "values": {
+                    "assists": {
+                        "statId": "assists",
+                        "basic": {
+                            "value": 1.0,
+                            "displayValue": "1"
+                        }
+                    },
+                    "score": {
+                        "statId": "score",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0"
+                        }
+                    },
+                    "kills": {
+                        "statId": "kills",
+                        "basic": {
+                            "value": 8.0,
+                            "displayValue": "8"
+                        }
+                    },
+                    "averageScorePerKill": {
+                        "statId": "averageScorePerKill",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0.00"
+                        }
+                    },
+                    "deaths": {
+                        "statId": "deaths",
+                        "basic": {
+                            "value": 1.0,
+                            "displayValue": "1"
+                        }
+                    },
+                    "averageScorePerLife": {
+                        "statId": "averageScorePerLife",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0.00"
+                        }
+                    },
+                    "completed": {
+                        "statId": "completed",
+                        "basic": {
+                            "value": 1.0,
+                            "displayValue": "Yes"
+                        }
+                    },
+                    "opponentsDefeated": {
+                        "statId": "opponentsDefeated",
+                        "basic": {
+                            "value": 9.0,
+                            "displayValue": "9"
+                        }
+                    },
+                    "efficiency": {
+                        "statId": "efficiency",
+                        "basic": {
+                            "value": 9.0,
+                            "displayValue": "9.00"
+                        }
+                    },
+                    "killsDeathsRatio": {
+                        "statId": "killsDeathsRatio",
+                        "basic": {
+                            "value": 8.0,
+                            "displayValue": "8.00"
+                        }
+                    },
+                    "killsDeathsAssists": {
+                        "statId": "killsDeathsAssists",
+                        "basic": {
+                            "value": 8.5,
+                            "displayValue": "8.50"
+                        }
+                    },
+                    "activityDurationSeconds": {
+                        "statId": "activityDurationSeconds",
+                        "basic": {
+                            "value": 278.0,
+                            "displayValue": "4m 38s"
+                        }
+                    },
+                    "standing": {
+                        "statId": "standing",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "Victory"
+                        }
+                    },
+                    "team": {
+                        "statId": "team",
+                        "basic": {
+                            "value": 19.0,
+                            "displayValue": "19"
+                        }
+                    },
+                    "completionReason": {
+                        "statId": "completionReason",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "Objective Completed"
+                        }
+                    },
+                    "fireteamId": {
+                        "statId": "fireteamId",
+                        "basic": {
+                            "value": -4.2427168295228068E+18,
+                            "displayValue": "-2147483648"
+                        }
+                    },
+                    "startSeconds": {
+                        "statId": "startSeconds",
+                        "basic": {
+                            "value": 1.0,
+                            "displayValue": "0m 1s"
+                        }
+                    },
+                    "timePlayedSeconds": {
+                        "statId": "timePlayedSeconds",
+                        "basic": {
+                            "value": 277.0,
+                            "displayValue": "4m 37s"
+                        }
+                    },
+                    "playerCount": {
+                        "statId": "playerCount",
+                        "basic": {
+                            "value": 6.0,
+                            "displayValue": "6"
+                        }
+                    },
+                    "teamScore": {
+                        "statId": "teamScore",
+                        "basic": {
+                            "value": 5.0,
+                            "displayValue": "5"
+                        }
+                    }
+                }
+            },
+            {
+                "period": "2022-06-19T01:23:02Z",
+                "activityDetails": {
+                    "referenceId": 2879074472,
+                    "directorActivityHash": 4150051058,
+                    "instanceId": "10995554105",
+                    "mode": 84,
+                    "modes": [
+                        5,
+                        84
+                    ],
+                    "isPrivate": false,
+                    "membershipType": 3
+                },
+                "values": {
+                    "assists": {
+                        "statId": "assists",
+                        "basic": {
+                            "value": 3.0,
+                            "displayValue": "3"
+                        }
+                    },
+                    "score": {
+                        "statId": "score",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0"
+                        }
+                    },
+                    "kills": {
+                        "statId": "kills",
+                        "basic": {
+                            "value": 6.0,
+                            "displayValue": "6"
+                        }
+                    },
+                    "averageScorePerKill": {
+                        "statId": "averageScorePerKill",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0.00"
+                        }
+                    },
+                    "deaths": {
+                        "statId": "deaths",
+                        "basic": {
+                            "value": 2.0,
+                            "displayValue": "2"
+                        }
+                    },
+                    "averageScorePerLife": {
+                        "statId": "averageScorePerLife",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0.00"
+                        }
+                    },
+                    "completed": {
+                        "statId": "completed",
+                        "basic": {
+                            "value": 1.0,
+                            "displayValue": "Yes"
+                        }
+                    },
+                    "opponentsDefeated": {
+                        "statId": "opponentsDefeated",
+                        "basic": {
+                            "value": 9.0,
+                            "displayValue": "9"
+                        }
+                    },
+                    "efficiency": {
+                        "statId": "efficiency",
+                        "basic": {
+                            "value": 4.5,
+                            "displayValue": "4.50"
+                        }
+                    },
+                    "killsDeathsRatio": {
+                        "statId": "killsDeathsRatio",
+                        "basic": {
+                            "value": 3.0,
+                            "displayValue": "3.00"
+                        }
+                    },
+                    "killsDeathsAssists": {
+                        "statId": "killsDeathsAssists",
+                        "basic": {
+                            "value": 3.75,
+                            "displayValue": "3.75"
+                        }
+                    },
+                    "activityDurationSeconds": {
+                        "statId": "activityDurationSeconds",
+                        "basic": {
+                            "value": 339.0,
+                            "displayValue": "5m 39s"
+                        }
+                    },
+                    "standing": {
+                        "statId": "standing",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "Victory"
+                        }
+                    },
+                    "team": {
+                        "statId": "team",
+                        "basic": {
+                            "value": 19.0,
+                            "displayValue": "19"
+                        }
+                    },
+                    "completionReason": {
+                        "statId": "completionReason",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "Objective Completed"
+                        }
+                    },
+                    "fireteamId": {
+                        "statId": "fireteamId",
+                        "basic": {
+                            "value": -4.2427168295228068E+18,
+                            "displayValue": "-2147483648"
+                        }
+                    },
+                    "startSeconds": {
+                        "statId": "startSeconds",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0m 0s"
+                        }
+                    },
+                    "timePlayedSeconds": {
+                        "statId": "timePlayedSeconds",
+                        "basic": {
+                            "value": 339.0,
+                            "displayValue": "5m 39s"
+                        }
+                    },
+                    "playerCount": {
+                        "statId": "playerCount",
+                        "basic": {
+                            "value": 6.0,
+                            "displayValue": "6"
+                        }
+                    },
+                    "teamScore": {
+                        "statId": "teamScore",
+                        "basic": {
+                            "value": 5.0,
+                            "displayValue": "5"
+                        }
+                    }
+                }
+            },
+            {
+                "period": "2022-06-19T01:16:07Z",
+                "activityDetails": {
+                    "referenceId": 2879074472,
+                    "directorActivityHash": 4150051058,
+                    "instanceId": "10995520638",
+                    "mode": 84,
+                    "modes": [
+                        5,
+                        84
+                    ],
+                    "isPrivate": false,
+                    "membershipType": 3
+                },
+                "values": {
+                    "assists": {
+                        "statId": "assists",
+                        "basic": {
+                            "value": 3.0,
+                            "displayValue": "3"
+                        }
+                    },
+                    "score": {
+                        "statId": "score",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0"
+                        }
+                    },
+                    "kills": {
+                        "statId": "kills",
+                        "basic": {
+                            "value": 6.0,
+                            "displayValue": "6"
+                        }
+                    },
+                    "averageScorePerKill": {
+                        "statId": "averageScorePerKill",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0.00"
+                        }
+                    },
+                    "deaths": {
+                        "statId": "deaths",
+                        "basic": {
+                            "value": 1.0,
+                            "displayValue": "1"
+                        }
+                    },
+                    "averageScorePerLife": {
+                        "statId": "averageScorePerLife",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0.00"
+                        }
+                    },
+                    "completed": {
+                        "statId": "completed",
+                        "basic": {
+                            "value": 1.0,
+                            "displayValue": "Yes"
+                        }
+                    },
+                    "opponentsDefeated": {
+                        "statId": "opponentsDefeated",
+                        "basic": {
+                            "value": 9.0,
+                            "displayValue": "9"
+                        }
+                    },
+                    "efficiency": {
+                        "statId": "efficiency",
+                        "basic": {
+                            "value": 9.0,
+                            "displayValue": "9.00"
+                        }
+                    },
+                    "killsDeathsRatio": {
+                        "statId": "killsDeathsRatio",
+                        "basic": {
+                            "value": 6.0,
+                            "displayValue": "6.00"
+                        }
+                    },
+                    "killsDeathsAssists": {
+                        "statId": "killsDeathsAssists",
+                        "basic": {
+                            "value": 7.5,
+                            "displayValue": "7.50"
+                        }
+                    },
+                    "activityDurationSeconds": {
+                        "statId": "activityDurationSeconds",
+                        "basic": {
+                            "value": 371.0,
+                            "displayValue": "6m 11s"
+                        }
+                    },
+                    "standing": {
+                        "statId": "standing",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "Victory"
+                        }
+                    },
+                    "team": {
+                        "statId": "team",
+                        "basic": {
+                            "value": 18.0,
+                            "displayValue": "18"
+                        }
+                    },
+                    "completionReason": {
+                        "statId": "completionReason",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "Objective Completed"
+                        }
+                    },
+                    "fireteamId": {
+                        "statId": "fireteamId",
+                        "basic": {
+                            "value": -4.2427168295228068E+18,
+                            "displayValue": "-2147483648"
+                        }
+                    },
+                    "startSeconds": {
+                        "statId": "startSeconds",
+                        "basic": {
+                            "value": 1.0,
+                            "displayValue": "0m 1s"
+                        }
+                    },
+                    "timePlayedSeconds": {
+                        "statId": "timePlayedSeconds",
+                        "basic": {
+                            "value": 370.0,
+                            "displayValue": "6m 10s"
+                        }
+                    },
+                    "playerCount": {
+                        "statId": "playerCount",
+                        "basic": {
+                            "value": 6.0,
+                            "displayValue": "6"
+                        }
+                    },
+                    "teamScore": {
+                        "statId": "teamScore",
+                        "basic": {
+                            "value": 5.0,
+                            "displayValue": "5"
+                        }
+                    }
+                }
+            },
+            {
+                "period": "2022-06-19T01:08:19Z",
+                "activityDetails": {
+                    "referenceId": 2879074472,
+                    "directorActivityHash": 4150051058,
+                    "instanceId": "10995483752",
+                    "mode": 84,
+                    "modes": [
+                        5,
+                        84
+                    ],
+                    "isPrivate": false,
+                    "membershipType": 3
+                },
+                "values": {
+                    "assists": {
+                        "statId": "assists",
+                        "basic": {
+                            "value": 3.0,
+                            "displayValue": "3"
+                        }
+                    },
+                    "score": {
+                        "statId": "score",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0"
+                        }
+                    },
+                    "kills": {
+                        "statId": "kills",
+                        "basic": {
+                            "value": 9.0,
+                            "displayValue": "9"
+                        }
+                    },
+                    "averageScorePerKill": {
+                        "statId": "averageScorePerKill",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0.00"
+                        }
+                    },
+                    "deaths": {
+                        "statId": "deaths",
+                        "basic": {
+                            "value": 4.0,
+                            "displayValue": "4"
+                        }
+                    },
+                    "averageScorePerLife": {
+                        "statId": "averageScorePerLife",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0.00"
+                        }
+                    },
+                    "completed": {
+                        "statId": "completed",
+                        "basic": {
+                            "value": 1.0,
+                            "displayValue": "Yes"
+                        }
+                    },
+                    "opponentsDefeated": {
+                        "statId": "opponentsDefeated",
+                        "basic": {
+                            "value": 12.0,
+                            "displayValue": "12"
+                        }
+                    },
+                    "efficiency": {
+                        "statId": "efficiency",
+                        "basic": {
+                            "value": 3.0,
+                            "displayValue": "3.00"
+                        }
+                    },
+                    "killsDeathsRatio": {
+                        "statId": "killsDeathsRatio",
+                        "basic": {
+                            "value": 2.25,
+                            "displayValue": "2.25"
+                        }
+                    },
+                    "killsDeathsAssists": {
+                        "statId": "killsDeathsAssists",
+                        "basic": {
+                            "value": 2.625,
+                            "displayValue": "2.63"
+                        }
+                    },
+                    "activityDurationSeconds": {
+                        "statId": "activityDurationSeconds",
+                        "basic": {
+                            "value": 433.0,
+                            "displayValue": "7m 13s"
+                        }
+                    },
+                    "standing": {
+                        "statId": "standing",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "Victory"
+                        }
+                    },
+                    "team": {
+                        "statId": "team",
+                        "basic": {
+                            "value": 18.0,
+                            "displayValue": "18"
+                        }
+                    },
+                    "completionReason": {
+                        "statId": "completionReason",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "Objective Completed"
+                        }
+                    },
+                    "fireteamId": {
+                        "statId": "fireteamId",
+                        "basic": {
+                            "value": -4.2427168295228068E+18,
+                            "displayValue": "-2147483648"
+                        }
+                    },
+                    "startSeconds": {
+                        "statId": "startSeconds",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0m 0s"
+                        }
+                    },
+                    "timePlayedSeconds": {
+                        "statId": "timePlayedSeconds",
+                        "basic": {
+                            "value": 433.0,
+                            "displayValue": "7m 13s"
+                        }
+                    },
+                    "playerCount": {
+                        "statId": "playerCount",
+                        "basic": {
+                            "value": 6.0,
+                            "displayValue": "6"
+                        }
+                    },
+                    "teamScore": {
+                        "statId": "teamScore",
+                        "basic": {
+                            "value": 5.0,
+                            "displayValue": "5"
+                        }
+                    }
+                }
+            },
+            {
+                "period": "2022-06-19T01:02:38Z",
+                "activityDetails": {
+                    "referenceId": 2879074472,
+                    "directorActivityHash": 4150051058,
+                    "instanceId": "10995439900",
+                    "mode": 84,
+                    "modes": [
+                        5,
+                        84
+                    ],
+                    "isPrivate": false,
+                    "membershipType": 3
+                },
+                "values": {
+                    "assists": {
+                        "statId": "assists",
+                        "basic": {
+                            "value": 2.0,
+                            "displayValue": "2"
+                        }
+                    },
+                    "score": {
+                        "statId": "score",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0"
+                        }
+                    },
+                    "kills": {
+                        "statId": "kills",
+                        "basic": {
+                            "value": 6.0,
+                            "displayValue": "6"
+                        }
+                    },
+                    "averageScorePerKill": {
+                        "statId": "averageScorePerKill",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0.00"
+                        }
+                    },
+                    "deaths": {
+                        "statId": "deaths",
+                        "basic": {
+                            "value": 1.0,
+                            "displayValue": "1"
+                        }
+                    },
+                    "averageScorePerLife": {
+                        "statId": "averageScorePerLife",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0.00"
+                        }
+                    },
+                    "completed": {
+                        "statId": "completed",
+                        "basic": {
+                            "value": 1.0,
+                            "displayValue": "Yes"
+                        }
+                    },
+                    "opponentsDefeated": {
+                        "statId": "opponentsDefeated",
+                        "basic": {
+                            "value": 8.0,
+                            "displayValue": "8"
+                        }
+                    },
+                    "efficiency": {
+                        "statId": "efficiency",
+                        "basic": {
+                            "value": 8.0,
+                            "displayValue": "8.00"
+                        }
+                    },
+                    "killsDeathsRatio": {
+                        "statId": "killsDeathsRatio",
+                        "basic": {
+                            "value": 6.0,
+                            "displayValue": "6.00"
+                        }
+                    },
+                    "killsDeathsAssists": {
+                        "statId": "killsDeathsAssists",
+                        "basic": {
+                            "value": 7.0,
+                            "displayValue": "7.00"
+                        }
+                    },
+                    "activityDurationSeconds": {
+                        "statId": "activityDurationSeconds",
+                        "basic": {
+                            "value": 263.0,
+                            "displayValue": "4m 23s"
+                        }
+                    },
+                    "standing": {
+                        "statId": "standing",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "Victory"
+                        }
+                    },
+                    "team": {
+                        "statId": "team",
+                        "basic": {
+                            "value": 18.0,
+                            "displayValue": "18"
+                        }
+                    },
+                    "completionReason": {
+                        "statId": "completionReason",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "Objective Completed"
+                        }
+                    },
+                    "fireteamId": {
+                        "statId": "fireteamId",
+                        "basic": {
+                            "value": -4.2427168295228068E+18,
+                            "displayValue": "-2147483648"
+                        }
+                    },
+                    "startSeconds": {
+                        "statId": "startSeconds",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0m 0s"
+                        }
+                    },
+                    "timePlayedSeconds": {
+                        "statId": "timePlayedSeconds",
+                        "basic": {
+                            "value": 263.0,
+                            "displayValue": "4m 23s"
+                        }
+                    },
+                    "playerCount": {
+                        "statId": "playerCount",
+                        "basic": {
+                            "value": 6.0,
+                            "displayValue": "6"
+                        }
+                    },
+                    "teamScore": {
+                        "statId": "teamScore",
+                        "basic": {
+                            "value": 5.0,
+                            "displayValue": "5"
+                        }
+                    }
+                }
+            },
+            {
+                "period": "2022-06-19T00:57:19Z",
+                "activityDetails": {
+                    "referenceId": 2879074472,
+                    "directorActivityHash": 4150051058,
+                    "instanceId": "10995414929",
+                    "mode": 84,
+                    "modes": [
+                        5,
+                        84
+                    ],
+                    "isPrivate": false,
+                    "membershipType": 3
+                },
+                "values": {
+                    "assists": {
+                        "statId": "assists",
+                        "basic": {
+                            "value": 3.0,
+                            "displayValue": "3"
+                        }
+                    },
+                    "score": {
+                        "statId": "score",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0"
+                        }
+                    },
+                    "kills": {
+                        "statId": "kills",
+                        "basic": {
+                            "value": 7.0,
+                            "displayValue": "7"
+                        }
+                    },
+                    "averageScorePerKill": {
+                        "statId": "averageScorePerKill",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0.00"
+                        }
+                    },
+                    "deaths": {
+                        "statId": "deaths",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0"
+                        }
+                    },
+                    "averageScorePerLife": {
+                        "statId": "averageScorePerLife",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0.00"
+                        }
+                    },
+                    "completed": {
+                        "statId": "completed",
+                        "basic": {
+                            "value": 1.0,
+                            "displayValue": "Yes"
+                        }
+                    },
+                    "opponentsDefeated": {
+                        "statId": "opponentsDefeated",
+                        "basic": {
+                            "value": 10.0,
+                            "displayValue": "10"
+                        }
+                    },
+                    "efficiency": {
+                        "statId": "efficiency",
+                        "basic": {
+                            "value": 10.0,
+                            "displayValue": "10.00"
+                        }
+                    },
+                    "killsDeathsRatio": {
+                        "statId": "killsDeathsRatio",
+                        "basic": {
+                            "value": 7.0,
+                            "displayValue": "7.00"
+                        }
+                    },
+                    "killsDeathsAssists": {
+                        "statId": "killsDeathsAssists",
+                        "basic": {
+                            "value": 8.5,
+                            "displayValue": "8.50"
+                        }
+                    },
+                    "activityDurationSeconds": {
+                        "statId": "activityDurationSeconds",
+                        "basic": {
+                            "value": 287.0,
+                            "displayValue": "4m 47s"
+                        }
+                    },
+                    "standing": {
+                        "statId": "standing",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "Victory"
+                        }
+                    },
+                    "team": {
+                        "statId": "team",
+                        "basic": {
+                            "value": 18.0,
+                            "displayValue": "18"
+                        }
+                    },
+                    "completionReason": {
+                        "statId": "completionReason",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "Objective Completed"
+                        }
+                    },
+                    "fireteamId": {
+                        "statId": "fireteamId",
+                        "basic": {
+                            "value": -4.2427168295228068E+18,
+                            "displayValue": "-2147483648"
+                        }
+                    },
+                    "startSeconds": {
+                        "statId": "startSeconds",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0m 0s"
+                        }
+                    },
+                    "timePlayedSeconds": {
+                        "statId": "timePlayedSeconds",
+                        "basic": {
+                            "value": 287.0,
+                            "displayValue": "4m 47s"
+                        }
+                    },
+                    "playerCount": {
+                        "statId": "playerCount",
+                        "basic": {
+                            "value": 6.0,
+                            "displayValue": "6"
+                        }
+                    },
+                    "teamScore": {
+                        "statId": "teamScore",
+                        "basic": {
+                            "value": 5.0,
+                            "displayValue": "5"
+                        }
+                    }
+                }
+            },
+            {
+                "period": "2022-06-18T20:37:29Z",
+                "activityDetails": {
+                    "referenceId": 2879074472,
+                    "directorActivityHash": 4150051058,
+                    "instanceId": "10993998623",
+                    "mode": 84,
+                    "modes": [
+                        5,
+                        84
+                    ],
+                    "isPrivate": false,
+                    "membershipType": 3
+                },
+                "values": {
+                    "assists": {
+                        "statId": "assists",
+                        "basic": {
+                            "value": 3.0,
+                            "displayValue": "3"
+                        }
+                    },
+                    "score": {
+                        "statId": "score",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0"
+                        }
+                    },
+                    "kills": {
+                        "statId": "kills",
+                        "basic": {
+                            "value": 5.0,
+                            "displayValue": "5"
+                        }
+                    },
+                    "averageScorePerKill": {
+                        "statId": "averageScorePerKill",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0.00"
+                        }
+                    },
+                    "deaths": {
+                        "statId": "deaths",
+                        "basic": {
+                            "value": 1.0,
+                            "displayValue": "1"
+                        }
+                    },
+                    "averageScorePerLife": {
+                        "statId": "averageScorePerLife",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0.00"
+                        }
+                    },
+                    "completed": {
+                        "statId": "completed",
+                        "basic": {
+                            "value": 1.0,
+                            "displayValue": "Yes"
+                        }
+                    },
+                    "opponentsDefeated": {
+                        "statId": "opponentsDefeated",
+                        "basic": {
+                            "value": 8.0,
+                            "displayValue": "8"
+                        }
+                    },
+                    "efficiency": {
+                        "statId": "efficiency",
+                        "basic": {
+                            "value": 8.0,
+                            "displayValue": "8.00"
+                        }
+                    },
+                    "killsDeathsRatio": {
+                        "statId": "killsDeathsRatio",
+                        "basic": {
+                            "value": 5.0,
+                            "displayValue": "5.00"
+                        }
+                    },
+                    "killsDeathsAssists": {
+                        "statId": "killsDeathsAssists",
+                        "basic": {
+                            "value": 6.5,
+                            "displayValue": "6.50"
+                        }
+                    },
+                    "activityDurationSeconds": {
+                        "statId": "activityDurationSeconds",
+                        "basic": {
+                            "value": 243.0,
+                            "displayValue": "4m 3s"
+                        }
+                    },
+                    "standing": {
+                        "statId": "standing",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "Victory"
+                        }
+                    },
+                    "team": {
+                        "statId": "team",
+                        "basic": {
+                            "value": 19.0,
+                            "displayValue": "19"
+                        }
+                    },
+                    "completionReason": {
+                        "statId": "completionReason",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "Objective Completed"
+                        }
+                    },
+                    "fireteamId": {
+                        "statId": "fireteamId",
+                        "basic": {
+                            "value": 1.7820217517030989E+18,
+                            "displayValue": "-2147483648"
+                        }
+                    },
+                    "startSeconds": {
+                        "statId": "startSeconds",
+                        "basic": {
+                            "value": 1.0,
+                            "displayValue": "0m 1s"
+                        }
+                    },
+                    "timePlayedSeconds": {
+                        "statId": "timePlayedSeconds",
+                        "basic": {
+                            "value": 242.0,
+                            "displayValue": "4m 2s"
+                        }
+                    },
+                    "playerCount": {
+                        "statId": "playerCount",
+                        "basic": {
+                            "value": 6.0,
+                            "displayValue": "6"
+                        }
+                    },
+                    "teamScore": {
+                        "statId": "teamScore",
+                        "basic": {
+                            "value": 5.0,
+                            "displayValue": "5"
+                        }
+                    }
+                }
+            },
+            {
+                "period": "2022-06-18T20:30:28Z",
+                "activityDetails": {
+                    "referenceId": 2879074472,
+                    "directorActivityHash": 4150051058,
+                    "instanceId": "10993969509",
+                    "mode": 84,
+                    "modes": [
+                        5,
+                        84
+                    ],
+                    "isPrivate": false,
+                    "membershipType": 3
+                },
+                "values": {
+                    "assists": {
+                        "statId": "assists",
+                        "basic": {
+                            "value": 7.0,
+                            "displayValue": "7"
+                        }
+                    },
+                    "score": {
+                        "statId": "score",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0"
+                        }
+                    },
+                    "kills": {
+                        "statId": "kills",
+                        "basic": {
+                            "value": 5.0,
+                            "displayValue": "5"
+                        }
+                    },
+                    "averageScorePerKill": {
+                        "statId": "averageScorePerKill",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0.00"
+                        }
+                    },
+                    "deaths": {
+                        "statId": "deaths",
+                        "basic": {
+                            "value": 2.0,
+                            "displayValue": "2"
+                        }
+                    },
+                    "averageScorePerLife": {
+                        "statId": "averageScorePerLife",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0.00"
+                        }
+                    },
+                    "completed": {
+                        "statId": "completed",
+                        "basic": {
+                            "value": 1.0,
+                            "displayValue": "Yes"
+                        }
+                    },
+                    "opponentsDefeated": {
+                        "statId": "opponentsDefeated",
+                        "basic": {
+                            "value": 12.0,
+                            "displayValue": "12"
+                        }
+                    },
+                    "efficiency": {
+                        "statId": "efficiency",
+                        "basic": {
+                            "value": 6.0,
+                            "displayValue": "6.00"
+                        }
+                    },
+                    "killsDeathsRatio": {
+                        "statId": "killsDeathsRatio",
+                        "basic": {
+                            "value": 2.5,
+                            "displayValue": "2.50"
+                        }
+                    },
+                    "killsDeathsAssists": {
+                        "statId": "killsDeathsAssists",
+                        "basic": {
+                            "value": 4.25,
+                            "displayValue": "4.25"
+                        }
+                    },
+                    "activityDurationSeconds": {
+                        "statId": "activityDurationSeconds",
+                        "basic": {
+                            "value": 360.0,
+                            "displayValue": "6m 0s"
+                        }
+                    },
+                    "standing": {
+                        "statId": "standing",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "Victory"
+                        }
+                    },
+                    "team": {
+                        "statId": "team",
+                        "basic": {
+                            "value": 18.0,
+                            "displayValue": "18"
+                        }
+                    },
+                    "completionReason": {
+                        "statId": "completionReason",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "Objective Completed"
+                        }
+                    },
+                    "fireteamId": {
+                        "statId": "fireteamId",
+                        "basic": {
+                            "value": 1.7820217517030989E+18,
+                            "displayValue": "-2147483648"
+                        }
+                    },
+                    "startSeconds": {
+                        "statId": "startSeconds",
+                        "basic": {
+                            "value": 4.0,
+                            "displayValue": "0m 4s"
+                        }
+                    },
+                    "timePlayedSeconds": {
+                        "statId": "timePlayedSeconds",
+                        "basic": {
+                            "value": 356.0,
+                            "displayValue": "5m 56s"
+                        }
+                    },
+                    "playerCount": {
+                        "statId": "playerCount",
+                        "basic": {
+                            "value": 6.0,
+                            "displayValue": "6"
+                        }
+                    },
+                    "teamScore": {
+                        "statId": "teamScore",
+                        "basic": {
+                            "value": 5.0,
+                            "displayValue": "5"
+                        }
+                    }
+                }
+            },
+            {
+                "period": "2022-06-18T20:25:01Z",
+                "activityDetails": {
+                    "referenceId": 2879074472,
+                    "directorActivityHash": 4150051058,
+                    "instanceId": "10993931819",
+                    "mode": 84,
+                    "modes": [
+                        5,
+                        84
+                    ],
+                    "isPrivate": false,
+                    "membershipType": 3
+                },
+                "values": {
+                    "assists": {
+                        "statId": "assists",
+                        "basic": {
+                            "value": 3.0,
+                            "displayValue": "3"
+                        }
+                    },
+                    "score": {
+                        "statId": "score",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0"
+                        }
+                    },
+                    "kills": {
+                        "statId": "kills",
+                        "basic": {
+                            "value": 7.0,
+                            "displayValue": "7"
+                        }
+                    },
+                    "averageScorePerKill": {
+                        "statId": "averageScorePerKill",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0.00"
+                        }
+                    },
+                    "deaths": {
+                        "statId": "deaths",
+                        "basic": {
+                            "value": 1.0,
+                            "displayValue": "1"
+                        }
+                    },
+                    "averageScorePerLife": {
+                        "statId": "averageScorePerLife",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "0.00"
+                        }
+                    },
+                    "completed": {
+                        "statId": "completed",
+                        "basic": {
+                            "value": 1.0,
+                            "displayValue": "Yes"
+                        }
+                    },
+                    "opponentsDefeated": {
+                        "statId": "opponentsDefeated",
+                        "basic": {
+                            "value": 10.0,
+                            "displayValue": "10"
+                        }
+                    },
+                    "efficiency": {
+                        "statId": "efficiency",
+                        "basic": {
+                            "value": 10.0,
+                            "displayValue": "10.00"
+                        }
+                    },
+                    "killsDeathsRatio": {
+                        "statId": "killsDeathsRatio",
+                        "basic": {
+                            "value": 7.0,
+                            "displayValue": "7.00"
+                        }
+                    },
+                    "killsDeathsAssists": {
+                        "statId": "killsDeathsAssists",
+                        "basic": {
+                            "value": 8.5,
+                            "displayValue": "8.50"
+                        }
+                    },
+                    "activityDurationSeconds": {
+                        "statId": "activityDurationSeconds",
+                        "basic": {
+                            "value": 302.0,
+                            "displayValue": "5m 2s"
+                        }
+                    },
+                    "standing": {
+                        "statId": "standing",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "Victory"
+                        }
+                    },
+                    "team": {
+                        "statId": "team",
+                        "basic": {
+                            "value": 18.0,
+                            "displayValue": "18"
+                        }
+                    },
+                    "completionReason": {
+                        "statId": "completionReason",
+                        "basic": {
+                            "value": 0.0,
+                            "displayValue": "Objective Completed"
+                        }
+                    },
+                    "fireteamId": {
+                        "statId": "fireteamId",
+                        "basic": {
+                            "value": 1.7820217517030989E+18,
+                            "displayValue": "-2147483648"
+                        }
+                    },
+                    "startSeconds": {
+                        "statId": "startSeconds",
+                        "basic": {
+                            "value": 5.0,
+                            "displayValue": "0m 5s"
+                        }
+                    },
+                    "timePlayedSeconds": {
+                        "statId": "timePlayedSeconds",
+                        "basic": {
+                            "value": 297.0,
+                            "displayValue": "4m 57s"
+                        }
+                    },
+                    "playerCount": {
+                        "statId": "playerCount",
+                        "basic": {
+                            "value": 6.0,
+                            "displayValue": "6"
+                        }
+                    },
+                    "teamScore": {
+                        "statId": "teamScore",
+                        "basic": {
+                            "value": 5.0,
+                            "displayValue": "5"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    "ErrorCode": 1,
+    "ThrottleSeconds": 0,
+    "ErrorStatus": "Success",
+    "Message": "Ok",
+    "MessageData": {}
+}
